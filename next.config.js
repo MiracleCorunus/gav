@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        NEXTAUTH_URL:'https://gav-nextjs.herokuapp.com',
+        NEXTAUTH_URL:'https://gavproject.herokuapp.com',
         API_URL:'https://teste-api.gavclub.com.br',
         GOOGLE_CLIENT_ID: '1015036690558-07rme60ttao7cuadmc2mnh8luiuqh3lv.apps.googleusercontent.com',
         GOOGLE_CLIENT_SECRET: 'xApEWP1AEtjZG-xHI6TNPupu',
