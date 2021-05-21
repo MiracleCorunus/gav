@@ -66,7 +66,8 @@ const options = {
         //     return url
         // },
         async redirect(url, baseUrl) {
-            return "https://gavproject.herokuapp.com/"
+            // return baseUrl
+            return config.nextAuthUrl;
         },
         
         async jwt(token, user, account, profile, isNewUser) {
